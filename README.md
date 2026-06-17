@@ -74,5 +74,8 @@
   <a href="https://malisaber.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=blogger&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="blog logo"  />
   </a>
+  <a href="mailto:malisaber@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=yahoo&label=&color=6001D2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+  </a>
 
 </div>
