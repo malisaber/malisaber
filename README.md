@@ -68,14 +68,11 @@
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/abbas-mohamadiyan-947261218" target="_blank">
+  <a href="https://www.linkedin.com/in/malisaber" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://your-personal-blog-url-here" target="_blank">
+  <a href="https://malisaber.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=blogger&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="blog logo"  />
-  </a>
-  <a href="https://www.twitter.com/garfield_gray_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 
 </div>
