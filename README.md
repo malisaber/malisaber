@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/malisaber" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://malisaber.netlify.app" target="_blank">
+  <a href="https://malisaber.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Blog&logo=blogger&label=&color=FF5722&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="blog logo"  />
   </a>
   <a href="mailto:malisaber@yahoo.com" target="_blank">
